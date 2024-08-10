@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac2e46fc.css",
+    "main.js": "/static/js/main.b6bf371e.js",
+    "static/media/science_fiction_artwork-wallpaper-3840x2160.jpg": "/static/media/science_fiction_artwork-wallpaper-3840x2160.f2f43383a496c2a00ca3.jpg",
+    "static/media/Harry-Potter-2023-Paperbacks-Assets_Purple.jpg": "/static/media/Harry-Potter-2023-Paperbacks-Assets_Purple.b521c2ce8c11e258f2d4.jpg",
+    "static/media/about-10_1.jpg": "/static/media/about-10_1.e615f68713f1faec1b06.jpg",
+    "static/media/The Magic Of Books WM2_01.jpg": "/static/media/The Magic Of Books WM2_01.efbf90343d89a36a7d67.jpg",
+    "static/media/spectacles-on-book.jpg": "/static/media/spectacles-on-book.69a93a59d85e90626c4c.jpg",
+    "static/media/Great-ATuin-II.jpg": "/static/media/Great-ATuin-II.7bb0f0adb42424cc3cf7.jpg",
+    "static/media/14.jpg": "/static/media/14.e792d0f8ade5d3f7344a.jpg",
+    "static/media/lotr.png": "/static/media/lotr.0c9bc6bad54b319e6b72.png",
+    "static/media/main-qimg-jpg": "/static/media/main-qimg-f4dfe6bf005217a7a5f10cb040bdb373.43ac883f06813bca71e9.jpg",
+    "static/media/HD-wallpaper-journey-story-ultra-aero-creative-ship-journey-design-book-adventure-story-cupoftea-sailingship.jpg": "/static/media/HD-wallpaper-journey-story-ultra-aero-creative-ship-journey-design-book-adventure-story-cupoftea-sailingship.882862986181c3347976.jpg",
+    "static/media/open-book-concept-fairy-tale-fiction-storytelling_23-2150793709.jpg": "/static/media/open-book-concept-fairy-tale-fiction-storytelling_23-2150793709.5697ad9a20a9ae60df35.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.ac2e46fc.css.map": "/static/css/main.ac2e46fc.css.map",
+    "main.b6bf371e.js.map": "/static/js/main.b6bf371e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac2e46fc.css",
+    "static/js/main.b6bf371e.js"
+  ]
+}
